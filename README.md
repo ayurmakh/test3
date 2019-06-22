@@ -1,5 +1,7 @@
 # test3-vue
 
+Игра "Найди пару"
+
 ## Project setup
 ```
 npm install
